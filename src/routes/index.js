@@ -8,7 +8,7 @@ import AvisoLegal from "../views/others/AvisoLegal";
 import ConsejosUtiles from "../views/others/ConsejosUtiles";
 import NotFound from "../views/errors";
 import SignUpUsers from "../views/login/SignUpUsers";
-
+//Rutas
 const index = () => {
   return (
     <>
